@@ -89,6 +89,7 @@ int main() {
 				std::cout << test[i] << std::endl;
 			}
 			break;
+
 			//其他几个情况，测试算法误差
 		case 1:
 			for (i = 0; i != 3; i++) {
